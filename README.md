@@ -1,12 +1,14 @@
 Russian Checkers Game
 
 Introduction
+
 Welcome to the Russian Checkers game! 
 This is a classic board game that is played on an 8x8 grid. 
 The game involves strategic moves, captures, and promotions to Dme piece. 
 This ReadMe file will provide you with all the information you need to understand and play the game effectively.
 
 Rules
+
 The game is played on an 8x8 board with alternating dark and light squares.
 Each player starts with 12 pieces of their respective color (pink or blue) placed on the dark squares of the three rows closest to them.
 The blue pieces move diagonally forward, one square at a time, to an adjacent dark square. The pink pieces move diagonally backward in the same manner.
@@ -19,6 +21,7 @@ The game ends when one player has no legal moves remaining.
 The player with remaining pieces wins the game.
 
 How to Play
+
 The game is played by two players, one controlling the blue pieces and the other controlling the pink pieces.
 Players take turns making moves.
 To make a move, drag the piece you want to move with your mouse to the destination square.
